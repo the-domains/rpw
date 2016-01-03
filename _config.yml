@@ -1,7 +1,7 @@
 name: RPW
 favicon: null
 layout_spectrum: 0.22531085996888578
-typography_spectrum: 0.9530843165703118
+typography_spectrum: 0.79389
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#11100e'
+    - '#f4e8d4'
+    - '#41352b'
+    - '#8694b6'
+    - '#5d7382'
   brandStrength: 0.679469597293064
-  lightness: 0.013068027328699827
-  saturation: 0.8626714474521577
-  rhythmicContrast: 0.5889647426083684
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
