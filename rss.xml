@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[RPW]]></title>
         <description><![CDATA[RPW]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rpw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 17:06:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 16:26:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rpw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31715dde-ed1a-482c-b380-0edce630b68e.jpg">]]></description>
-            <link>undefined12a5691e-68e7-4348-881b-7ed884b5e4df/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31715dde-ed1a-482c-b380-0edce630b68e.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/rpw/12a5691e-68e7-4348-881b-7ed884b5e4df/index.html</link>
             <guid isPermaLink="false">12a5691e-68e7-4348-881b-7ed884b5e4df</guid>
-            <pubDate>Sun, 03 Jan 2016 17:06:34 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 16:26:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
